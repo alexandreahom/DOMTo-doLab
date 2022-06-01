@@ -1,0 +1,14 @@
+body {
+  align-items: center;
+  background-color: lightgrey;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  /* line-height: 150px; */
+}
+/* I DONT KNOW HOW TO PUT IT IN THE MIDDLE */
+
+#reset-button {
+  background-color: rgb(238, 123, 123);
+}
+
